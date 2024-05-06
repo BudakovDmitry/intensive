@@ -27,6 +27,14 @@
     &.second {
       margin-bottom: 30px;
     }
+    .gold {
+      color: #c88505;
+      text-transform: uppercase;
+    }
+    .black {
+      color: $black-primary;
+      font-weight: 700;
+    }
   }
 
   &__list {
